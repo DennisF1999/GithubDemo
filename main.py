@@ -5,7 +5,7 @@ def LevelOne():
 def LevelTwo():
   pass
 
-#hoi
+#hoi2
 
 StartScherm()
 LevelOne()
